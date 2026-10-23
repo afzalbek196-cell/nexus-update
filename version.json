@@ -1,6 +1,6 @@
 {
-  "minVersion": "1.0.0",
-  "latest": "1.0.0",
-  "url": "",
-  "message": "Nexus'ning yangi versiyasi chiqdi. Iltimos, yangi versiyani yuklab oling."
+  "minVersion": "1.2.0",
+  "latest": "1.2.0",
+  "url": "https://github.com/afzalbek196-cell/nexus-update/releases",
+  "message": "Nexus Code'ni yangilash vaqti keldi. Agar ilovani yangilamasangiz ilovadan foydalana olmaysiz."
 }
